@@ -9,7 +9,11 @@ This project doesnt distribute prismlauncher-cracked binaries.
 This project just has build files for easier building of prismlauncher-cracked package, with the package you can install it to system.
 
 ## Instructions
-Firstly get the files to build it:
+If you dont have base-devel package installed, install it: 
+```
+sudo pacman -S base-devel
+```
+Then get files to build the package:
 ```
 git clone https://github.com/Hydriam/prismlauncher-cracked-makepkg
 cd prismlauncher-cracked-makepkg
