@@ -5,7 +5,7 @@ It can be used on Arch Linux (and based like Manjaro).
 
 This is not endorsed by Prism Launcher or by Prism Launcher Cracked Projects.
 
-This project doesnt distribute prismlauncher-cracked binaries.
+This project doesn't distribute prismlauncher-cracked binaries.
 This project just has build files for easier building of prismlauncher-cracked package, with the package you can install it to system.
 
 ## Instructions
